@@ -1,6 +1,6 @@
 // src/pages/Home.js
 import React from 'react';
-import FeaturedRecipes from '../components/recipes/FeaturedRecipes';
+import FeaturedRecipes from './recipes/FeaturedRecipes';
 
 const Home = () => {
   return (
